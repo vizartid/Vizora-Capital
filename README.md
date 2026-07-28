@@ -1,6 +1,8 @@
+<div align="center">
+
 # Vizora Capital
 
-> **Clearer finances, smarter decisions.**
+### Clearer finances, smarter decisions.
 
 Build a tighter cash flow without losing control. Vizora Capital brings invoice management, transaction tracking, and an AI finance assistant into one secure workspace — every AI action requires human approval before any data actually changes.
 
@@ -18,7 +20,7 @@ Build a tighter cash flow without losing control. Vizora Capital brings invoice 
 [![Last Commit](https://img.shields.io/github/last-commit/vizartid/Vizora-Capital?style=flat&color=blue)](https://github.com/vizartid/Vizora-Capital)
 [![Stars](https://img.shields.io/github/stars/vizartid/Vizora-Capital?style=flat&color=yellow)](https://github.com/vizartid/Vizora-Capital)
 
----
+<br>
 
 ### Tech Stack
 
@@ -58,6 +60,8 @@ Build a tighter cash flow without losing control. Vizora Capital brings invoice 
 <a href="https://eslint.org">
   <img src="https://img.shields.io/badge/ESLint-9-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" alt="ESLint" />
 </a>
+
+</div>
 
 ---
 
