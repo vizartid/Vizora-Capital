@@ -21,7 +21,6 @@ Build a tighter cash flow without losing control. Vizora Capital brings invoice 
 [![Stars](https://img.shields.io/github/stars/vizartid/Vizora-Capital?style=flat&color=yellow)](https://github.com/vizartid/Vizora-Capital)
 
 <br>
----
 
 ### Tech Stack
 
