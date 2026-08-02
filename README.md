@@ -1,8 +1,9 @@
 <div align="center">
 
 <p align="center">
-  <img src="public/vizora.png" alt="Vizora Capital" width="140">
+  <img src="public/Vizora.png" alt="Vizora Capital" width="140">
 </p>
+
 # Vizora Capital
 
 ### Clearer finances, smarter decisions.
